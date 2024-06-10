@@ -4,7 +4,7 @@
 
 [Image Editor App Web](https://rodrisolisavila.github.io/image-editor/)
 
-![image-editor](preview.jpg)
+![imageeditor](preview.jpg)
 
 ## Description
 
